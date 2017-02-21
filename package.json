@@ -1,0 +1,15 @@
+{
+  "name": "pug__basic-usage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pug.render.js",
+  "dependencies": {
+    "pug": "^2.0.0-beta11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "forest-shadow",
+  "license": "ISC"
+}
